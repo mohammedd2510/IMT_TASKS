@@ -1,0 +1,6 @@
+../Src/LedAnimation.c:40:6:LedAnimation_8Leds_Init	2
+../Src/LedAnimation.c:48:6:LedAnimation_Flashing	4
+../Src/LedAnimation.c:66:6:LedAnimation_Snake	4
+../Src/LedAnimation.c:88:6:LedAnimation_PingPong	4
+../Src/LedAnimation.c:109:6:LedAnimation_Fat7yYaWarda	3
+../Src/LedAnimation.c:125:6:LedAnimation_2aflyYaWarda	3
