@@ -1,0 +1,16 @@
+../Src/HAL/LEDMAT/LEDMAT_program.c:40:13:LEDMAT_SysTick_CallBack_Handler	4	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:44:13:voidDisableAllRows	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:59:13:voidDisableAllColumns	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:74:13:voidUpdateScreen_WithDelay	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:118:13:voidClearLEDMATBuffer	16	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:121:13:voidScrollLeft	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:129:13:voidScrollRight	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:137:13:Frame_delay	16	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:144:6:HLEDMAT_voidInit	16	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:195:6:HLEDMAT_voidDisplayFrame	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:236:6:HLEDMAT_voidDisplayFrameWithDelay	32	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:281:6:HLEDMAT_voidDisplayChar	16	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:286:6:HLEDMAT_voidDisplayString	24	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:298:6:HLEDMAT_voidDisplayScrollingString	32	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:322:6:HLEDMAT_voidScrollFrameRight	16	static
+../Src/HAL/LEDMAT/LEDMAT_program.c:328:6:HLEDMAT_voidScrollFrameLeft	16	static
